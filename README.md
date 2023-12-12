@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 Module 10 Challenge
-Sqlalchemy Challenge, module 10.
+Sqlalchemy Challenge
 Assignment: Analyze and explore climate data using Sqlalchemy and pandas and design a climate app using Flask API.
 
 For this assignment I worked with my study group, used in class assignments as a road map and queried various Sqlalchemy sites.
